@@ -20,16 +20,6 @@ const Profile = () => {
       bgColor: "#000",
       routeName: "/(modals)/profileModal",
     },
-    // {
-    //   title: "Settings",
-    //   icon: <Icons.GearSix size={26} color="white" weight="fill" />,
-    //   bgColor: "#487eb0",
-    // },
-    {
-      title: "Privacy Policy",
-      icon: <Icons.Lock size={26} color="white" weight="fill" />,
-      bgColor: "#299d91",
-    },
     {
       title: "Logout",
       icon: <Icons.Power size={26} color="white" weight="fill" />,
